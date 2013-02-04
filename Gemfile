@@ -7,6 +7,7 @@ gem 'rails', '3.2.11'
 
 
 group :development, :test do
+	
 	gem 'activerecord-jdbcsqlite3-adapter'
 	gem 'rspec-rails', '2.11.0'
 end
